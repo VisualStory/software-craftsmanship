@@ -1,2 +1,2 @@
-software-craftsmanship
+Software Craftsmanship
 ======================
