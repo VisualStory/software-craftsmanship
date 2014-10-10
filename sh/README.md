@@ -5,5 +5,5 @@
 
 删除最后一行
 ```
-sed -i '$d'
+sed -i '$d' <filename>
 ```
